@@ -1,0 +1,24 @@
+{
+  "raw_paths_equal_jobs": 112,
+  "same_ID_auto_first_last_distribution_changes": 104,
+  "auto_first_last_max_energy_change": 0.01007982944819652,
+  "auto_first_last_changed_energies": 56,
+  "example": {
+    "evaluation": "train_w8_p1_k1_checkpoint",
+    "raw": -1.06640625,
+    "raw_CI": [
+      -1.1123291015625,
+      -1.0205078125
+    ],
+    "auto": [
+      -1.070361990950226,
+      -1.0690948472412218,
+      -1.0735222868217054
+    ],
+    "header_reference": [
+      -1.0786057692307693,
+      -1.0809954751131219,
+      -1.078493829964418
+    ]
+  }
+}

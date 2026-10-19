@@ -1,0 +1,194 @@
+[
+  {
+    "configuration": "block4_layer1",
+    "x": 0.0,
+    "energy": -1.0302734375,
+    "upper_error": 0.05078125,
+    "lower_error": 0.048828125,
+    "independent_final": false
+  },
+  {
+    "configuration": "block4_layer1",
+    "x": 1.0,
+    "energy": -1.0146484375,
+    "upper_error": 0.0517578125,
+    "lower_error": 0.0478515625,
+    "independent_final": false
+  },
+  {
+    "configuration": "block4_layer1",
+    "x": 2.0,
+    "energy": -1.0771484375,
+    "upper_error": 0.046875,
+    "lower_error": 0.0478515625,
+    "independent_final": false
+  },
+  {
+    "configuration": "block4_layer1",
+    "x": 3.0,
+    "energy": -1.009765625,
+    "upper_error": 0.0478515625,
+    "lower_error": 0.0478515625,
+    "independent_final": false
+  },
+  {
+    "configuration": "block4_layer1",
+    "x": 4.0,
+    "energy": -1.0263671875,
+    "upper_error": 0.0517578125,
+    "lower_error": 0.048828125,
+    "independent_final": false
+  },
+  {
+    "configuration": "block4_layer1",
+    "x": 6.0,
+    "energy": -1.03271484375,
+    "upper_error": 0.024169921875,
+    "lower_error": 0.024169921875,
+    "independent_final": true
+  },
+  {
+    "configuration": "block8_layer1",
+    "x": 0.0,
+    "energy": -0.990234375,
+    "upper_error": 0.0478515625,
+    "lower_error": 0.0458984375,
+    "independent_final": false
+  },
+  {
+    "configuration": "block8_layer1",
+    "x": 1.0,
+    "energy": -1.06640625,
+    "upper_error": 0.0458984375,
+    "lower_error": 0.045922851563,
+    "independent_final": false
+  },
+  {
+    "configuration": "block8_layer1",
+    "x": 2.0,
+    "energy": -1.0517578125,
+    "upper_error": 0.05078125,
+    "lower_error": 0.0498046875,
+    "independent_final": false
+  },
+  {
+    "configuration": "block8_layer1",
+    "x": 3.0,
+    "energy": -1.0185546875,
+    "upper_error": 0.0498046875,
+    "lower_error": 0.0498046875,
+    "independent_final": false
+  },
+  {
+    "configuration": "block8_layer1",
+    "x": 4.0,
+    "energy": -1.0302734375,
+    "upper_error": 0.0498046875,
+    "lower_error": 0.047875976563,
+    "independent_final": false
+  },
+  {
+    "configuration": "block8_layer1",
+    "x": 6.0,
+    "energy": -1.031494140625,
+    "upper_error": 0.023443603516,
+    "lower_error": 0.023931884766,
+    "independent_final": true
+  },
+  {
+    "configuration": "block4_layer3",
+    "x": 0.0,
+    "energy": -0.7451171875,
+    "upper_error": 0.05859375,
+    "lower_error": 0.059594726562,
+    "independent_final": false
+  },
+  {
+    "configuration": "block4_layer3",
+    "x": 1.0,
+    "energy": -0.7724609375,
+    "upper_error": 0.0556640625,
+    "lower_error": 0.0546875,
+    "independent_final": false
+  },
+  {
+    "configuration": "block4_layer3",
+    "x": 2.0,
+    "energy": -0.7265625,
+    "upper_error": 0.053735351562,
+    "lower_error": 0.0517578125,
+    "independent_final": false
+  },
+  {
+    "configuration": "block4_layer3",
+    "x": 3.0,
+    "energy": -0.7998046875,
+    "upper_error": 0.052734375,
+    "lower_error": 0.0546875,
+    "independent_final": false
+  },
+  {
+    "configuration": "block4_layer3",
+    "x": 4.0,
+    "energy": -0.7470703125,
+    "upper_error": 0.056640625,
+    "lower_error": 0.055688476562,
+    "independent_final": false
+  },
+  {
+    "configuration": "block4_layer3",
+    "x": 6.0,
+    "energy": -0.7646484375,
+    "upper_error": 0.030029296875,
+    "lower_error": 0.029302978516,
+    "independent_final": true
+  },
+  {
+    "configuration": "block8_layer3",
+    "x": 0.0,
+    "energy": -0.7109375,
+    "upper_error": 0.052758789062,
+    "lower_error": 0.05078125,
+    "independent_final": false
+  },
+  {
+    "configuration": "block8_layer3",
+    "x": 1.0,
+    "energy": -0.74609375,
+    "upper_error": 0.0546875,
+    "lower_error": 0.0537109375,
+    "independent_final": false
+  },
+  {
+    "configuration": "block8_layer3",
+    "x": 2.0,
+    "energy": -0.7900390625,
+    "upper_error": 0.055688476562,
+    "lower_error": 0.058618164062,
+    "independent_final": false
+  },
+  {
+    "configuration": "block8_layer3",
+    "x": 3.0,
+    "energy": -0.6943359375,
+    "upper_error": 0.0576171875,
+    "lower_error": 0.056665039062,
+    "independent_final": false
+  },
+  {
+    "configuration": "block8_layer3",
+    "x": 4.0,
+    "energy": -0.701171875,
+    "upper_error": 0.058618164062,
+    "lower_error": 0.0595703125,
+    "independent_final": false
+  },
+  {
+    "configuration": "block8_layer3",
+    "x": 6.0,
+    "energy": -0.718994140625,
+    "upper_error": 0.02783203125,
+    "lower_error": 0.027838134766,
+    "independent_final": true
+  }
+]

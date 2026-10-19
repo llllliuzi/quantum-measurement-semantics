@@ -1,0 +1,76 @@
+{
+  "scope": "APPLICATION STUDY ONLY; earlier hardware-boundary scans excluded",
+  "rows": [
+    {
+      "scope": "Early representation pilot",
+      "jobs": 18,
+      "requested": 6144,
+      "returned": 3072,
+      "failed_requested": 3072,
+      "unclassified": 0,
+      "returned_jobs": 6,
+      "failed_jobs": 12
+    },
+    {
+      "scope": "Early failed diagnostics",
+      "jobs": 8,
+      "requested": 3584,
+      "returned": 0,
+      "failed_requested": 3584,
+      "unclassified": 0,
+      "returned_jobs": 0,
+      "failed_jobs": 8
+    },
+    {
+      "scope": "Pretraining health",
+      "jobs": 5,
+      "requested": 1536,
+      "returned": 1536,
+      "failed_requested": 0,
+      "unclassified": 0,
+      "returned_jobs": 5,
+      "failed_jobs": 0
+    },
+    {
+      "scope": "Main training",
+      "jobs": 112,
+      "requested": 34816,
+      "returned": 34816,
+      "failed_requested": 0,
+      "unclassified": 0,
+      "returned_jobs": 112,
+      "failed_jobs": 0
+    },
+    {
+      "scope": "Post-training controls",
+      "jobs": 6,
+      "requested": 3584,
+      "returned": 3584,
+      "failed_requested": 0,
+      "unclassified": 0,
+      "returned_jobs": 6,
+      "failed_jobs": 0
+    },
+    {
+      "scope": "Prospective continuation",
+      "jobs": 24,
+      "requested": 7168,
+      "returned": 7168,
+      "failed_requested": 0,
+      "unclassified": 0,
+      "returned_jobs": 24,
+      "failed_jobs": 0
+    }
+  ],
+  "total": {
+    "jobs": 173,
+    "requested": 56832,
+    "returned": 50176,
+    "failed_requested": 6656,
+    "unclassified": 0,
+    "returned_jobs": 153,
+    "failed_jobs": 20
+  },
+  "IDs_pairwise_disjoint": true,
+  "failed_execution_and_billing": "UNKNOWN; requested failed shots are not demonstrated execution or zero cost"
+}
