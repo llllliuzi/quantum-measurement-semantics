@@ -1,0 +1,41 @@
+{
+  "public_source_commit": "1559f9c6aff9dae031ce79c08df1b6d287a78ee5",
+  "entries": [
+    {
+      "role": "outcome_parser",
+      "source_path": "crates/cqlib-tianyan/src/task.rs",
+      "lines_in_pinned_source": [
+        181,
+        228
+      ],
+      "permalink": "https://github.com/cq-lib/cqlib-tianyan/blob/1559f9c6aff9dae031ce79c08df1b6d287a78ee5/crates/cqlib-tianyan/src/task.rs#L181-L228",
+      "archived_sha256": "f077d16e94a5920fb5124dfad527b1078cafe61a7fe9ad780890e1564edd1bff"
+    },
+    {
+      "role": "header_to_calibration_factors",
+      "source_path": "crates/cqlib-tianyan/src/task.rs",
+      "lines_in_pinned_source": [
+        626,
+        657
+      ],
+      "permalink": "https://github.com/cq-lib/cqlib-tianyan/blob/1559f9c6aff9dae031ce79c08df1b6d287a78ee5/crates/cqlib-tianyan/src/task.rs#L626-L657",
+      "archived_sha256": "f077d16e94a5920fb5124dfad527b1078cafe61a7fe9ad780890e1564edd1bff"
+    },
+    {
+      "role": "tensor_order_and_integer_basis",
+      "source_path": "crates/cqlib-tianyan/src/calibration.rs",
+      "lines_in_pinned_source": [
+        38,
+        104
+      ],
+      "permalink": "https://github.com/cq-lib/cqlib-tianyan/blob/1559f9c6aff9dae031ce79c08df1b6d287a78ee5/crates/cqlib-tianyan/src/calibration.rs#L38-L104",
+      "archived_sha256": "fc081124dd063e0cecf2486c12bb340d434ae6260211bc695b5eeabfcc111985"
+    },
+    {
+      "role": "independently_assembled_forward_channel_reference",
+      "sha256": "c573d7a61dff0bd50f62d124bab6ce273f7ad7da582144451adbb279f5feda56",
+      "scope": "Conventional fixed-calibration LU reference, not a new mitigation algorithm or physical-ground-truth certificate",
+      "public_reference_path": "reference_readout.py"
+    }
+  ]
+}

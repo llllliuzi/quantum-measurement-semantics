@@ -1,0 +1,25 @@
+{
+  "scope": "Evaluated historical instance, not a new environment probe",
+  "evaluated_packages": {
+    "cqlib": "2.0.0b2",
+    "cqlib-tianyan": "0.1.0b2"
+  },
+  "native_instrumentation": {
+    "original_sha256": "d3ef97f167507f71c6508839b53b183dcff8ee3b783d40070358d657f7a089be",
+    "test_copy_sha256": "3140f8cc2591246a78a736fb8ecc1aea714879c15a11fb383dc889068d38f683",
+    "changed_byte_offset": 2331477,
+    "before_hex": "73",
+    "after_hex": "0a",
+    "changed_bytes": 1,
+    "instrument": "default scheme fifth-character store immediate; no control-flow or calibration edits",
+    "installed_file_unchanged": true
+  },
+  "public_source_repository": "https://github.com/cq-lib/cqlib-tianyan",
+  "public_source_commit": "1559f9c6aff9dae031ce79c08df1b6d287a78ee5",
+  "wheel_exact_source_commit_binding": "NOT_INDEPENDENTLY_VERIFIED; arithmetic matches the pinned-source replay for the examined path",
+  "original_installation_changed": false,
+  "pristine_production_TLS_test": false,
+  "maintainer_confirmation": "NOT_OBTAINED",
+  "upstream_issue_status": "DEFERRED_BY_USER",
+  "evidence": "PROVENANCE.json records retained private-source digests. Private payloads are not included."
+}
