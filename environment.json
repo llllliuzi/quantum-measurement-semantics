@@ -1,0 +1,14 @@
+{
+  "numerical_path_observed": {
+    "python": "3.13.0",
+    "numpy": "2.5.4",
+    "scipy": "1.18.1"
+  },
+  "plotting_path_observed": {
+    "python": "3.9.12",
+    "numpy": "2.0.2",
+    "matplotlib": "3.9.4"
+  },
+  "scope": "Versions observed locally during publication preparation; dependency combinations outside these paths not verified",
+  "new_QPU_jobs": 0
+}

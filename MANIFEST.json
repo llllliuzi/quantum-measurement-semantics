@@ -1,0 +1,27 @@
+{
+  "scope": "Explicit public allowlist; no raw shots/private calibration/provider IDs/credentials/Git internals",
+  "sha256": {
+    ".gitignore": "48bf7114e448b64fae17e78a6ecd5a72a1726b0a1a2afaeca54ac4f25bfbd569",
+    "PROVENANCE.json": "29f8cafedde42bea76ec22588c2076c345aabe0944ed1f65ed51316ed556aa9a",
+    "README.md": "b30ad80eb43bc4c1cc0878b235e0d24603ea06649b1966e782ed5d54be390920",
+    "artifact/measurement_semantics/README.md": "caa1311672dceaa3b8abb19250192a7a44eef24e74be5275c83da217f590b307",
+    "artifact/measurement_semantics/sdk_versions.json": "0ecff786032f54ddcc514ec3265c33dc03a4baeaf27e93fa7b7846944520218e",
+    "artifact/measurement_semantics/source_locations.json": "61ebe13cf3e546b59690ff16bfd58cfd9533a8d962b5fb6e1a2fa95975aafbfb",
+    "data/README.md": "b623efe6653549620a2c4975f03113e617a1393de478b895db5c5a5c4207e79d",
+    "data/acquisition_accounting.json": "8311e08481175fa20f9005baa0945035af008b6cdc0f5e840d341152460d4c30",
+    "data/application_curve.json": "53029c38f92a7761ed3f2c12f852cbdc42063490c069d75fe703d0791214c442",
+    "data/energy_scale.json": "ce7889f4315677fd1895689d58693c1dd3a9d42e23e9ab9473e9c024d6cde2ea",
+    "data/estimator_paths.json": "9153663d40fcbee0950de65e93842972892ac0888c1f8ff11d087e5a0ae220c8",
+    "data/native_reference_checks.json": "3bdf9a6830d411a1ce2689a8af208164892eade24ef41c90f826a9355305d539",
+    "data/update_comparisons.json": "cbab9f76deff350fa9b01441f85c2e450a74f3a0e8b2d6592cc9039becdf8111",
+    "environment.json": "58336d502ee344e48553da8868d49cd7e1c452845e6c1c31bbfd00c4ae926556",
+    "figures/README.md": "fa5b4aa0898627450400606205ab8b993ef086a2755a6d6f6915c2c5ab0f2618",
+    "figures/application_context.svg": "16dfd983367ad70c745090790db596d53df23fb8f7994d046256ce60c2a45adf",
+    "figures/measurement_semantics.svg": "81b05dd9714e9daf5cedb85aa6335c175f1f4412f922ea3fc6c973ab37eadc31",
+    "plot_results.py": "071cf9bfb5a3d163df614dd87cd49a1452b4be9fd1389530d0cc68510783b0a4",
+    "reference_readout.py": "c573d7a61dff0bd50f62d124bab6ce273f7ad7da582144451adbb279f5feda56",
+    "reproduce.py": "a26a2e4c3ae3689cddd7c27b94a7534ba2222bfbdcbab35b4c934638ae5807b1",
+    "requirements.txt": "d954cc918df9413e229105db2598ea93b64173122cfbe68166c5ae34cb4984ee",
+    "synthetic_example.py": "a16a5af4e4e7149201f20ef408c12bcaa35e0e1bae500039367aa399d4ba0413"
+  }
+}

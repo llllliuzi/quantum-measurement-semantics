@@ -1,0 +1,33 @@
+{
+  "release_kind": "Derived-data and reference-code companion",
+  "date": "2026-10-19",
+  "source_digests": {
+    "native_summary": "87d3ec1d9b57cdd0651cd0257ff04c7b5a9c26dfec60fe81ab33c1c9f734abaa",
+    "native_comparisons": "6db96bb717f69e83247aa87947b5a46e802ab54fc649aff69666d229c6c23c20",
+    "updates": "700d49e15b3e2a7013e82c1ca2fad81730aa93a08bcdf8a92f3f2ff595d00e68",
+    "energies": "807f14e87ad6f48063b833f5541025f3c4a19bee2d8d3662c378efbf0c4cdd2b",
+    "paths": "a14ee0432a63b5e3b831122c9ee64bce678e67513481b0c7ebdcdc3323a12738",
+    "costs": "029e46e77e252f4a0a4c62554940ea8978213ef37d51c36143b9763739913128",
+    "manuscript": "08d242d5249f747ca1ec77fc5b76163ea0a0e4f4f7d8dcd3d94f64d7d8e132d7"
+  },
+  "reference_code_sha256": "c573d7a61dff0bd50f62d124bab6ce273f7ad7da582144451adbb279f5feda56",
+  "derivation": {
+    "energy_records": "Numeric values preserved; evaluation names replaced with stable aliases",
+    "native_comparisons": "Provider task IDs and internal record names removed; stable acquisition aliases retained",
+    "updates": "Pair names replaced with aliases; recorded parents/contrasts/updates retained; step index made explicit",
+    "accounting": "Aggregated partition; private ledger locations removed",
+    "curves": "24 energy centers and intervals extracted without changing values from the current manuscript"
+  },
+  "excluded": [
+    "provider identifiers",
+    "credentials",
+    "account information",
+    "raw joint shots",
+    "private calibration payloads",
+    "binary SDKs",
+    "local absolute paths",
+    "conversation transcripts"
+  ],
+  "raw_native_reproduction": "Not independently reproducible from this bundle alone",
+  "new_QPU_jobs": 0
+}
